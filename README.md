@@ -1,12 +1,14 @@
  **CODESOFT Internship Projects**
 
  **Project 1:** Iris Flower Classification
+![alt text](image.png)
 
 **Problem Statement:**
 Utilizing the Iris flower dataset, which comprises three species - setosa, versicolor, and virginica, distinguishable by their measurements, the task is to develop a machine learning model capable of accurately classifying Iris flowers into their respective species. By leveraging the sepal and petal measurements provided in the dataset, the objective is to train a model that can effectively classify Iris flowers, thus serving as an introductory classification task widely used in machine learning.
 
  **Goal:**
 The goal is to develop a machine learning model that accurately classifies Iris flowers into their respective species based on their sepal and petal measurements, using the Iris dataset as an introductory classification task in machine learning.
+
 
 ---
 
