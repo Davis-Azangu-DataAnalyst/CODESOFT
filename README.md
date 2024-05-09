@@ -13,6 +13,7 @@ The goal is to develop a machine learning model that accurately classifies Iris 
 ---
 
 **Project 2: Sales Prediction**
+![alt text](image-1.png)
 
 Problem Statement:
 Sales prediction in business involves forecasting the volume of product purchases by customers, considering factors like advertising expenditure, target audience segmentation, and advertising platform selection. Data scientists play a pivotal role in this process by utilizing machine learning techniques in Python to analyze and interpret data, enabling informed decisions regarding advertising costs. By leveraging predictive models, businesses can optimize their advertising strategies and maximize sales potential, thereby necessitating a comprehensive exploration of sales prediction using machine learning in Python.
@@ -23,6 +24,7 @@ The business goal is to optimize advertising strategies and maximize sales poten
 ---
 
  **Project 3: Titanic Survival Prediction**
+ ![alt text](image-2.png)
 
  **Problem Statement:**
 Develop a predictive model using the Titanic dataset to determine the likelihood of a passenger surviving the sinking of the Titanic. Utilizing information such as age, gender, ticket class, fare, and cabin, the model aims to accurately classify passengers into survived or not survived categories. This project serves as a fundamental exercise in data analysis and predictive modeling, offering insights into the factors influencing survival rates aboard the Titanic.
